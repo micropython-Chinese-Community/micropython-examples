@@ -1,6 +1,6 @@
 '''
 
-    BEARPI pi demo
+    BEARPI pi calculate QuecPython demo
 
 '''
 

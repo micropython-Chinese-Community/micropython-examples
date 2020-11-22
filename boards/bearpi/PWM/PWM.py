@@ -1,6 +1,6 @@
 '''
 
-    BEARPI PWM demo
+    BEARPI PWM QuecPython demo
  
 '''
 

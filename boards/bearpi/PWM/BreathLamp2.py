@@ -1,6 +1,6 @@
 '''
 
-    BEARPI Breathing Lamp demo2
+    BEARPI Breathing Lamp QuecPython demo2
 
 '''
 

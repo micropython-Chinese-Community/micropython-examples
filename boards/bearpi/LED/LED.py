@@ -1,6 +1,6 @@
 '''
 
-    BEARPI LED demo
+    BEARPI LED QuecPython demo
  
 '''
 
